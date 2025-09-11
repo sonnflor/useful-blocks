@@ -1,6 +1,6 @@
-namespace thisgs {
+namespace usefulBlocks {
     //%block
-    export function circle(x:number) {
-        return x+1
+    export function whileLoop(x:number) {
+        
     }
 }
