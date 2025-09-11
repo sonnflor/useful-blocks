@@ -1,6 +1,6 @@
 namespace thisgs {
     //%block
-    function circle(x:number) {
+    export function circle(x:number) {
         return x+1
     }
 }
